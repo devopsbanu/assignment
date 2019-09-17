@@ -1,3 +1,6 @@
  1. Create 5 empty repositories in GitHub
  2. Create 5 local repository with 5 different files [different file extensions or chaneg in content ]. and push to above repository .
  3. Every repository commit should be with different user name . 
+ 
+ took assignment file from local git to github
+ 
